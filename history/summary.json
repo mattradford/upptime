@@ -5,6 +5,14 @@
     "slug": "asn",
     "status": "up",
     "uptime": "100.00%",
-    "time": 674
+    "time": 653
+  },
+  {
+    "name": "ASN Mother",
+    "url": "$SECRET_SITE_1",
+    "slug": "asn-mother",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 588
   }
 ]
