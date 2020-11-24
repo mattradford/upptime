@@ -6,6 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: ASN
     url: https://www.asn.org.uk
+  - name: ASN Mother
+    url: $SECRET_SITE_1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
