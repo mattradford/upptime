@@ -11,8 +11,8 @@
     "name": "Mother",
     "url": "$SECRET_SITE_1",
     "slug": "mother",
-    "status": "down",
-    "uptime": "5.48%",
-    "time": 0
+    "status": "up",
+    "uptime": "0.51%",
+    "time": 242
   }
 ]
