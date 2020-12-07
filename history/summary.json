@@ -2,6 +2,7 @@
   {
     "name": "ASN",
     "url": "https://www.asn.org.uk",
+    "icon": "https://favicons.githubusercontent.com/www.asn.org.uk",
     "slug": "asn",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1002,
-    "timeDay": 622,
-    "timeWeek": 1278,
-    "timeMonth": 1002,
-    "timeYear": 1002
+    "time": 992,
+    "timeDay": 833,
+    "timeWeek": 1209,
+    "timeMonth": 992,
+    "timeYear": 992,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mother",
     "url": "$SECRET_SITE_1",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mother",
     "status": "up",
     "uptime": "99.90%",
@@ -25,10 +28,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 761,
-    "timeDay": 462,
-    "timeWeek": 778,
-    "timeMonth": 761,
-    "timeYear": 761
+    "time": 763,
+    "timeDay": 796,
+    "timeWeek": 740,
+    "timeMonth": 763,
+    "timeYear": 763,
+    "dailyMinutesDown": {
+      "2020-11-24": 17
+    }
   }
 ]
